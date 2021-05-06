@@ -1,0 +1,7 @@
+### Blog ###
+blog:
+  enable: true
+  # Leave header text blank to remove entire <section>
+  header: "Dental Stories - Quick Shorts of advice that make you better."
+  buttonText: "Read More"
+  postCount: 4

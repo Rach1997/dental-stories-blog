@@ -1,0 +1,38 @@
+languageCode = "en-us"
+title = "Dental Stories"
+baseURL = "https://dentalstories.ml"
+theme = "hugo-html5up-alpha"
+
+[params]
+description = "Dental Stories - Quick shorts of advice that make you better"
+# images = ["images/pic01.jpg"]
+copyright = "© Rachana Chitalkar. All rights reserved."
+design = "Design: [HTML5 UP](http://html5up.net/)"
+mainSections = ["blog"]
+
+### Footer Social Media Links ###
+[[params.share]]
+title = "facebook"
+icon = "fa-facebook-f" # fontawesome icons https://fontawesome.com/icons?d=gallery&s=brands
+link = "https://www.facebook.com/"
+
+[[params.share]]
+title = "twitter"
+icon = "fa-twitter"
+link = "https://twitter.com/"
+
+[[params.share]]
+title = "linkedin"
+icon = "fa-linkedin"
+link = "https://www.linkedin.com"
+
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/blog/"
+weight = 10
+[[menu.main]]
+identifier = "about"
+name = "About Me"
+url = "/about/"
+weight = 20
