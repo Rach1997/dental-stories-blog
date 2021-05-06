@@ -14,17 +14,22 @@ mainSections = ["blog"]
 [[params.share]]
 title = "facebook"
 icon = "fa-facebook-f" # fontawesome icons https://fontawesome.com/icons?d=gallery&s=brands
-link = "https://www.facebook.com/"
+link = "https://www.facebook.com/rachana.chitalkar.3"
 
 [[params.share]]
 title = "twitter"
 icon = "fa-twitter"
-link = "https://twitter.com/"
+link = "https://twitter.com/ChtlkrRac"
 
 [[params.share]]
 title = "linkedin"
 icon = "fa-linkedin"
-link = "https://www.linkedin.com"
+link = "https://www.linkedin.com/in/dr-rachana-chitalkar-a18253195/"
+
+[[params.share]]
+title = "instagram"
+icon = "fa-instagram"
+link = "https://www.instagram.com/rachanachitalkar"
 
 [[menu.main]]
 identifier = "blog"
