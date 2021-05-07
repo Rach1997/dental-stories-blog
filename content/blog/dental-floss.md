@@ -6,7 +6,6 @@ title: Dental Floss
 excerpt: ''
 date: 2021-01-27T06:30:00.000+00:00
 image: "/images/dental-floss-cover.jpg"
-draft: true
 
 ---
 Dental floss is a thin filament cord used to remove plaque or attached food debris in between the teeth where the toothbrush bristles cannot reach.
