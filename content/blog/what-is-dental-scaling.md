@@ -2,7 +2,7 @@
 authors = []
 date = 2021-05-06T18:30:00Z
 draft = true
-image = ""
+image = "/images/images-3.jpeg"
 summary = ""
 title = "What is Dental Scaling?"
 
