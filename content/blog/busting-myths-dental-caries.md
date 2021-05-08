@@ -6,7 +6,6 @@ title: Busting myths - Dental Caries
 excerpt: Let's get the facts straight regarding dental caries!
 date: 2020-09-13T06:30:00.000+00:00
 hero: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR-jWWjgHLZLcdVigohzrRMPo7RfFmFPuVbQ&usqp=CAU
-draft: true
 
 ---
 According to the World Health Organization (WHO) globally it is estimated that 2.3 billion people suffer from caries of permanent teeth and more than 5.3 million children suffer from caries of the primary teeth.
