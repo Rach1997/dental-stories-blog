@@ -1,9 +1,9 @@
 +++
 authors = []
-date = 2021-05-06T18:30:00Z
+date = 2021-05-08T05:30:00Z
 draft = true
 image = "/images/images-3.jpeg"
-summary = ""
+summary = "Gum disease is a serious issue. About 47% of adults aged 30 years and older seem to suffer from periodontitis. So let us look at the most common treatment method here.  "
 title = "What is Dental Scaling?"
 
 +++
