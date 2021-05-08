@@ -1,14 +1,14 @@
 ---
-timeToRead: 0
-authors: [Rachana Chitalkar]
+timeToRead: 3 min
+authors:
+- Rachana Chitalkar
 title: Busting myths - Dental Caries
-excerpt:
-  This post busts a few myths about caries in teeth so that next time you won't
-  get fooled.
-date: 2020-09-13T06:30:00+00:00
-hero: ""
----
+excerpt: Let's get the facts straight regarding dental caries!
+date: 2020-09-13T06:30:00.000+00:00
+hero: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR-jWWjgHLZLcdVigohzrRMPo7RfFmFPuVbQ&usqp=CAU
+draft: true
 
+---
 According to the World Health Organization (WHO) globally it is estimated that 2.3 billion people suffer from caries of permanent teeth and more than 5.3 million children suffer from caries of the primary teeth.
 
 "No no my teeth never hurt I don't need to go to the dentist"
