@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2021-05-10T18:30:00Z
-draft = true
 image = ""
 summary = "Mouth Ulcers or mouth sores or mouth cankers are one the ailments occuring anywhere in the mouth( the lips, tongue, palate or gums.)"
 title = "Mouth Ulcers"
