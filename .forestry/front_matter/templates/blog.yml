@@ -21,4 +21,5 @@ fields:
   label: Cover Image
   description: Upload the main image here
 pages:
+- content/blog/mouth-ulcers.md
 - content/blog/what-is-dental-scaling.md
