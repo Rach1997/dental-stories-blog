@@ -1,12 +1,13 @@
 ---
-title: "When Should You Start Brushing"
-date: 2020-08-16T12:00:00+05:30
-excerpt: ""
+title: When Should You Start Brushing
+date: 2020-08-16T12:00:00.000+05:30
+excerpt: ''
 authors:
-  - Rachana Chitalkar
-draft: false
----
+- Rachana Chitalkar
+summary: ''
+image: ''
 
+---
 Do you remember when you started brushing on your own?
 Studies have shown that brushing should be started as soon as the baby has started feeding.
 
