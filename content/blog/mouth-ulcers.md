@@ -10,7 +10,7 @@ title = "Mouth Ulcers"
 
        Mouth Ulcers or mouth sores or mouth cankers are one the ailments occuring anywhere in the mouth( the lips, tongue, palate or gums.)
 
- **Causes:**
+ **Causes**:
 
  There might be various causes of mouth ulcers:
 
@@ -34,17 +34,15 @@ Other causes maybe :
 
  4. Underlying gastrointestinal disease like crohn disease.
 
- 5. Long term stress.
-
      Certain types of ulcers- apthous Ulcers occur frequently without any cause and are mostly found in 20% of the population.
 
-**Treatment:** 
+**Treatment**:
 
-     In most cases mouth ulcers are non-contagious and heal mostly around 7-14 days.Certain ulcers caused by herpes virus or the apthous Ulcers require proper treatment.
+  In most cases mouth ulcers are non-contagious and heal mostly around 7-14 days.Certain ulcers caused by herpes virus or the apthous Ulcers require proper treatment.
 
-     Generally topical application of ointments is recommended along with proper balanced diet. Avoid spicy and hot food until it heals. Drink plenty of fluids.
+  Generally topical application of ointments is recommended along with proper balanced diet. Avoid spicy and hot food until it heals. Also drink plenty of fluids.
 
- **Prevention of mouth ulcers:**
+ **Prevention of mouth ulcers**:
 
      1. Using soft bristles toothbrush and brushing twice daily.
 
