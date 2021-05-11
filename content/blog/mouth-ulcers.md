@@ -33,7 +33,7 @@ Other causes maybe :
 *  Deficiency of vitamin B12 or iron deficiency.
 
 
-*  Viral infections such as herpes simplex virus causing cold sores. ( These are contagious, mostly accompanied with severe pain, blisters, fever,tiredness)
+*  Viral infections such as herpes simplex virus causing cold sores. ( These are contagious, mostly accompanied with severe pain, blisters, fever,tiredness).
 
 
 *   Constant irritation due to braces or I'll fitting dentures.
