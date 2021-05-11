@@ -14,25 +14,33 @@ title = "Mouth Ulcers"
 
  There might be various causes of mouth ulcers:
 
- 1. Sharp teeth cusp irritating the soft tissues.
+*  Sharp teeth cusp irritating the soft tissues.
 
- 2. Accidental cheek or tongue biting.
 
- 3. Extra hot or spicy food consumption.
+*  Accidental cheek or tongue biting.
 
- 5. Tobacco chewing habit.
 
- 6. Due to brushing harshly.
+*  Extra hot or spicy food consumption.
+
+
+*  Tobacco chewing habit.
+
+
+*  Due to brushing harshly.
 
 Other causes maybe :
 
- 1. Deficiency of vitamin B12 or iron deficiency.
+*  Deficiency of vitamin B12 or iron deficiency.
 
- 2. Viral infections such as herpes simplex virus causing cold sores. ( These are contagious, mostly accompanied with severe pain, blisters, fever,tiredness)
 
- 3. Constant irritation due to braces or I'll fitting dentures.
+*  Viral infections such as herpes simplex virus causing cold sores. ( These are contagious, mostly accompanied with severe pain, blisters, fever,tiredness)
 
- 4. Underlying gastrointestinal disease like crohn disease.
+
+*   Constant irritation due to braces or I'll fitting dentures.
+
+
+*  Underlying gastrointestinal disease like crohn disease.
+*  Long term stress.
 
      Certain types of ulcers- apthous Ulcers occur frequently without any cause and are mostly found in 20% of the population.
 
@@ -44,8 +52,7 @@ Other causes maybe :
 
  **Prevention of mouth ulcers**:
 
-     1. Using soft bristles toothbrush and brushing twice daily.
-
-     2. Having a balanced diet.
+1.  Using soft bristles toothbrush and brushing twice daily.
+2. Having a balanced diet.
 
 Treatment at home is possible but visiting your dentist is important to seek proper medications and find the underlying disease if any, causing the ulcers .
