@@ -8,7 +8,7 @@ title = "Mouth Ulcers"
 +++
 **Mouth** **Ulcers**
 
-       Mouth Ulcers or mouth sores or mouth cankers are one the ailments occuring anywhere in the mouth( the lips, tongue, palate or gums.)
+ Mouth Ulcers or mouth sores or mouth cankers are one the ailments occuring anywhere in the mouth( the lips, tongue, palate or gums.)
 
  **Causes**:
 
