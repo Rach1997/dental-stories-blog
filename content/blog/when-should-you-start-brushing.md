@@ -28,5 +28,3 @@ Here are some measures to maintain a good oral hygiene for the child:
 • Children who are 3 to 6 years of age may use a pea-sized amount of toothpaste. Parents should brush the child’s teeth for them until they can clean all of their teeth thoroughly without help. Monitor them to make sure that they spit out the toothpaste.
 
 • Maintain a reward chart or a schedule chart if possible to encourage the child to brush the teeth properly.
-
-![toothpaste on a brush](https://qph.fs.quoracdn.net/main-qimg-68feb6eadcb9cea7edc87c50ee443791.webp)
