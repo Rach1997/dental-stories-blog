@@ -21,6 +21,7 @@ fields:
   label: Cover Image
   description: Upload the main image here
 pages:
+- content/blog/dental-sensitivity.md
 - content/blog/mouth-ulcers.md
 - content/blog/what-is-dental-scaling.md
 - content/blog/when-should-you-start-brushing.md
