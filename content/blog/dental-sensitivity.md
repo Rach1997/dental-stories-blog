@@ -7,7 +7,7 @@ summary = ""
 title = "Dental Sensitivity"
 
 +++
-**DENTIN** 
+**DENTIN HYPERSENSITIVITY**
 
 Have you ever felt a sudden pain while having cold food substances which further can't be explain as one caused by dental caries or other disease.Such a condition is said to be dental hypersensitivity.
 
