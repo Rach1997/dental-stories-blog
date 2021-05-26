@@ -7,7 +7,7 @@ summary = ""
 title = "Dental Sensitivity"
 
 +++
-**DENTINAL HYPERSENSITIVITY**
+**DENTIN** 
 
 Have you ever felt a sudden pain while having cold food substances which further can't be explain as one caused by dental caries or other disease.Such a condition is said to be dental hypersensitivity.
 
@@ -35,3 +35,5 @@ Use of desensitizing agents as well as appropriate diet are major treatment opti
 2. _Proper_ _brushing_- Use a soft bristles toothbrush and appropriate brushing technique. To know the technique you may ask for the same to your dentist.
 3. Appropriate diet- patient is advised to avoid  frequent acidic food substances. Recommendation to use alkaline food substances like milk or atleast water after the acidic diet intake.
 4. _In_- _office_ _treatments_- If the above home treatment options isn't working in-office treatments are advised. Which includes application of varnishes, potassium oxalate, bioglass material or correction in occlusion if needed can be suggested. Your dentist will provide with the appropriate treatment options.
+
+Regular follow-ups should be done for the same.
