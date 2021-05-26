@@ -11,7 +11,7 @@ title = "Dental Sensitivity"
 
 Have you ever felt a sudden pain while having cold food substances which further can't be explain as one caused by dental caries or other disease.Such a condition is said to be dental hypersensitivity.
 
-**What is the reason for dentinal hypersensitivity?**
+**What is the reason for dentin hypersensitivity?**
 
 Our tooth structure consists of three parts outer enamel and inner dentin and the pulp. The dentin being a vital tissue has ability to respond to the stimulus provided. Thus, any physiological changes occurring to the dentin results in activation of nerve fibres causing pain.
 
