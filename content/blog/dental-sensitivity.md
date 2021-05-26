@@ -2,7 +2,7 @@
 authors = []
 date = 2021-05-24T16:30:00Z
 draft = true
-image = ""
+image = "/images/images.jpeg"
 summary = ""
 title = "Dental Sensitivity"
 
