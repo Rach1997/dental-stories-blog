@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Dental Stories"
-baseURL = "https://dentalstories.ml"
+baseURL = "https://rach1997.github.io/dental-stories-blog/"
 theme = "hugo-html5up-alpha"
 
 [params]
